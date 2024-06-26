@@ -1,4 +1,4 @@
-# flutter_application_6
+# flutter_application_sneaker_shop
 
 A new Flutter project.
 
